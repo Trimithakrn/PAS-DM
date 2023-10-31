@@ -1,5 +1,3 @@
-![image](https://github.com/Trimithakrn/PAS-DM/assets/117138547/99f88b01-1667-45cb-a8bc-5f394ebb3994)
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
